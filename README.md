@@ -16,7 +16,7 @@ Local Version Control – Changes are tracked on a single computer, often using 
 
 1. Sign in to GitHub
 
-Go to GitHub and log into your account. If you don’t have an account, create one
+Go to GitHub and log into your account. If you don’t have an account, create one,
 
 
 
