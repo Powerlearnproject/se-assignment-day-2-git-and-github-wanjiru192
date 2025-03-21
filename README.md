@@ -277,3 +277,4 @@ Forgetting to use a .gitignore file can result in unnecessary or temporary files
 
 Skipping structured workflows with GitHub Issues and Pull Requests (PRs) can lead to poor collaboration and code review practices.
 
+
